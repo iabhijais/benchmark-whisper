@@ -1,0 +1,4 @@
+__pycache__/
+*.json
+*.log
+bench_sample.wav
